@@ -40,7 +40,7 @@ public class DetailActivity extends AppCompatActivity {
     }
 
 
-    Signatur nutzer = new Signatur("mobi-hack", "H4m$urgH13okt");
+    Signatur nutzer = new Signatur("USERNAME", "PASSWD");
 
     class AsyncTaskGeofox extends AsyncTask<POI, Integer, ArrayList<POI>> {
 
