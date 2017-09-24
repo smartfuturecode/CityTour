@@ -406,7 +406,7 @@ public class CityTourFragment extends Fragment implements AdapterView.OnItemSele
     }
 
 
-    Signatur nutzer = new Signatur("mobi-hack", "H4m$urgH13okt");
+    Signatur nutzer = new Signatur("USERNAME", "PASSWD");
 
     @Override
     public void click(POI path) {
